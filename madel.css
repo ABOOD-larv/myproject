@@ -1,3 +1,6 @@
 h1{
     color: hsl(70, 90%, 48%);
 }
+body{
+    background-color: blue;
+}
